@@ -1,5 +1,3 @@
-package pertemuan10.tugas;
-
 public class Sword extends Item implements IAttack{
     private int damage;
     public Sword(String name, String rank, int price, int damage){
