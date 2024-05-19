@@ -1,5 +1,3 @@
-package pertemuan10.tugas;
-
 public abstract class Item {
     private String name, rank;
     private int price;
