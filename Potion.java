@@ -1,5 +1,3 @@
-package pertemuan10.tugas;
-
 public class Potion extends Item implements IAttack,IDeffence{
     private int duration, effectPoint;
     enum type{
