@@ -1,6 +1,3 @@
-package pertemuan10.tugas;
-
-
 public class Main {
     public static void main(String[] args) {
         Potion potion1 = new Potion("Racun","Bad", 100, 30, 90,Potion.type.attack);
